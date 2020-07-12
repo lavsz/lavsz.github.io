@@ -1,11 +1,11 @@
 # Site settings
-author: Shenghao Zhang
-title: 
+author: Shenghao (Lavender) Zhang
+title: Lavender & Her Farm
 header-img: img/home-bg.png
 email: lav.rivendell@gmail.com
-copyright_name: Shenghao Zhang
+copyright_name: Shenghao (Lavender) Zhang
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Blog space where I share experiences and opinions
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lavsz
