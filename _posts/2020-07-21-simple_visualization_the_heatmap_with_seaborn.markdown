@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Simple Visualization: the Heatmap with Seaborn"
-date:       2020-07-21 05:56:18 +0000
+date:       2020-07-21 01:56:19 -0400
 permalink:  simple_visualization_the_heatmap_with_seaborn
 ---
 
